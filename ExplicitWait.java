@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class ExplicitWait {
 
 	static WebDriver driver = null;
-	static WebDriverWait wait = null;
+	static WebDriverWait wait ;
 
 	public static void main(String[] args) {
 
