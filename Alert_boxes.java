@@ -34,7 +34,7 @@ public class Alert_boxes {
 		driver.findElement(By.xpath(".//*[@id='searchBtn']")).click();
 
 		// making the thread wait for 5 seconds
-		Thread.sleep(5000);
+		Thread.sleep(6000);
 
 		/*
 		 * // switching to the alert box alt = driver.switchTo().alert();
